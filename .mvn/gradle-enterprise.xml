@@ -1,6 +1,6 @@
 <gradleEnterprise>
     <server>
-        <url>http://localhost</url>
+        <url>http://host.docker.internal</url>
     </server>
     <buildScan>
         <captureGoalInputFiles>true</captureGoalInputFiles>
