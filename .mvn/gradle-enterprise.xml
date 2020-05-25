@@ -1,6 +1,6 @@
 <gradleEnterprise>
     <server>
-        <url>http://host.docker.internal</url>
+        <url>https://e.grdev.net/</url>
     </server>
     <buildScan>
         <captureGoalInputFiles>true</captureGoalInputFiles>
