@@ -4,6 +4,7 @@
     </server>
     <buildScan>
         <captureGoalInputFiles>true</captureGoalInputFiles>
+        <backgroundBuildScanUpload>false</backgroundBuildScanUpload>
     </buildScan>
     <buildCache>
         <local>
