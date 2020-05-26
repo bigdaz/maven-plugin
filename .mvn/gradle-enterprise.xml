@@ -1,6 +1,6 @@
 <gradleEnterprise>
     <server>
-        <url>https://e.grdev.net/</url>
+        <url>http://localhost/</url>
     </server>
     <buildScan>
         <captureGoalInputFiles>true</captureGoalInputFiles>
